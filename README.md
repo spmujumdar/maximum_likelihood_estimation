@@ -1,4 +1,4 @@
-# maximum_likelihood_estimation
+# maximum likelihood estimation
 
 MLE, the estimator maximizes the log likelihood function.
 
